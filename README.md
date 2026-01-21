@@ -103,7 +103,3 @@ ping fs-01.mydomain.local        # ✅ Success: 192.168.10.117
 ping win11-client.mydomain.local # ✅ Success: 192.168.10.118
 nslookup mydomain.local          # ✅ Success: Zone found
 ```
-
-## 🤝 Acknowledgements
-- 🤖 Collaborated with **Grok 3**, built by xAI, for expert guidance and assistance
-- 🎯 Collaborated with **Claude Sonnet 4**, built by Anthropic, for expert guidance and assistance
